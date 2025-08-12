@@ -1,7 +1,7 @@
 # Train-Reservation-System
 Train Reservation System is a Java-based application that allows users to book, cancel, and view train tickets. It features user authentication, train schedule management, and seat availability tracking. Designed for learning and practice, it demonstrates core OOP, threading, and file handling concepts.
 
-Youtube video for Step by Step Guide on Local Setup: https://www.youtube.com/watch?v=Wd2GlEJJJlw
+. Youtube video for Step by Step Guide on Local Setup: https://www.youtube.com/watch?v=Wd2GlEJJJlw
 
 Online Train Information and Reservation
 This Website is built for following purpose:-
@@ -40,6 +40,8 @@ View Profile
 Update Profile
 Change Password
 Logout
+
+
 Technologies used:-
 Front-End Development:
 HTML
@@ -50,15 +52,29 @@ Java [J2EE]
 JDBC
 Servlet
 Oracle ( SQL )
+
+
 ==== Software And Tools Required ======
-: Git [https://www.youtube.com/watch?v=gv7VPQ4LZ7g]
-: Java JDK 8+ [https://www.youtube.com/watch?v=O9PWH9SeTTE]
-: Eclipse EE [https://www.youtube.com/watch?v=8aDsEV7txXE]
-: Apache Maven [https://www.youtube.com/watch?v=jd2zx3dLjuw]
-: Tomcat v8.0+ [https://youtu.be/mLFPodZO8Iw?t=903]
-: Oracle (SQL) / SQL PLUS [https://www.youtube.com/watch?v=ZYOqykEDSqU]
-: Oracle SQL Developer [https://www.youtube.com/watch?v=2a1JKIGVtd0]
+
+: Git
+[https://www.youtube.com/watch?v=gv7VPQ4LZ7g]
+: Java JDK 8+ 
+[https://www.youtube.com/watch?v=O9PWH9SeTTE]
+: Eclipse EE
+[https://www.youtube.com/watch?v=8aDsEV7txXE]
+: Apache Maven 
+[https://www.youtube.com/watch?v=jd2zx3dLjuw]
+: Tomcat v8.0+
+[https://youtu.be/mLFPodZO8Iw?t=903]
+: Oracle (SQL) / SQL PLUS
+[https://www.youtube.com/watch?v=ZYOqykEDSqU]
+: Oracle SQL Developer
+[https://www.youtube.com/watch?v=2a1JKIGVtd0]
+
+
+
 ========== Dummy Database Initialization ===========
+
 STEP 1: Open SQL Plus OR SQL Developer
 
 STEP 2: Login and connect to database using administrator username and password
